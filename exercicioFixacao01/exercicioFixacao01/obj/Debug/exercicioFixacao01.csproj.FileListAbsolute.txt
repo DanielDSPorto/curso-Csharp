@@ -1,0 +1,6 @@
+C:\Users\Daniel Porto\Documents\Curso Programacao Orientada a Objetos C#\exercicioFixacao01\exercicioFixacao01\bin\Debug\exercicioFixacao01.exe.config
+C:\Users\Daniel Porto\Documents\Curso Programacao Orientada a Objetos C#\exercicioFixacao01\exercicioFixacao01\bin\Debug\exercicioFixacao01.exe
+C:\Users\Daniel Porto\Documents\Curso Programacao Orientada a Objetos C#\exercicioFixacao01\exercicioFixacao01\bin\Debug\exercicioFixacao01.pdb
+C:\Users\Daniel Porto\Documents\Curso Programacao Orientada a Objetos C#\exercicioFixacao01\exercicioFixacao01\obj\Debug\exercicioFixacao01.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Porto\Documents\Curso Programacao Orientada a Objetos C#\exercicioFixacao01\exercicioFixacao01\obj\Debug\exercicioFixacao01.exe
+C:\Users\Daniel Porto\Documents\Curso Programacao Orientada a Objetos C#\exercicioFixacao01\exercicioFixacao01\obj\Debug\exercicioFixacao01.pdb
