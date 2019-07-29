@@ -6,4 +6,7 @@
     <RootNamespace>section9_example2</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\" />
+  </ItemGroup>
 </Project>
