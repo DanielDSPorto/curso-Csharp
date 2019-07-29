@@ -1,6 +1,0 @@
-C:\Users\Daniel Porto\Documents\Curso Programacao Orientada a Objetos C#\ExercicioIntroducaoPOO1\ExercicioIntroducaoPOO1\bin\Debug\ExercicioIntroducaoPOO1.exe.config
-C:\Users\Daniel Porto\Documents\Curso Programacao Orientada a Objetos C#\ExercicioIntroducaoPOO1\ExercicioIntroducaoPOO1\bin\Debug\ExercicioIntroducaoPOO1.exe
-C:\Users\Daniel Porto\Documents\Curso Programacao Orientada a Objetos C#\ExercicioIntroducaoPOO1\ExercicioIntroducaoPOO1\bin\Debug\ExercicioIntroducaoPOO1.pdb
-C:\Users\Daniel Porto\Documents\Curso Programacao Orientada a Objetos C#\ExercicioIntroducaoPOO1\ExercicioIntroducaoPOO1\obj\Debug\ExercicioIntroducaoPOO1.csprojResolveAssemblyReference.cache
-C:\Users\Daniel Porto\Documents\Curso Programacao Orientada a Objetos C#\ExercicioIntroducaoPOO1\ExercicioIntroducaoPOO1\obj\Debug\ExercicioIntroducaoPOO1.exe
-C:\Users\Daniel Porto\Documents\Curso Programacao Orientada a Objetos C#\ExercicioIntroducaoPOO1\ExercicioIntroducaoPOO1\obj\Debug\ExercicioIntroducaoPOO1.pdb
